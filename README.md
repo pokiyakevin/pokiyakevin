@@ -3,8 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pokiyakevin&label=Profile%20views&color=0e75b6&style=flat" alt="pokiyakevin" /> </p>
 
+- 🌱 I’m currently learning **Three.js ,advance GSAP Animation**
+
+- 💬 Ask me about **react , node , GSAP**
+
+- 📫 How to reach me **pokiyakevin22@gmail.com**
+
+- ⚡ Fun fact **I think I'm funny**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/kevin pokiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kevin pokiya" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
